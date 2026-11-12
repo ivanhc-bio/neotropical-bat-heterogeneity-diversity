@@ -1,0 +1,11 @@
+variable,vif
+topo_sd_elev,3.03
+clima_bio01_media,2.93
+clima_bio12_sd,2.37
+clima_bio12_media,1.99
+hab_evi_media,1.89
+hist_sd_temp,1.17
+ctrl_esfuerzo_log,1.16
+ctrl_area_tierra_km2,1.16
+clima_bio01_sd_res,1.15
+hist_anom_prec,1.09

@@ -1,0 +1,15 @@
+variable,descripcion
+"celda, genero, tam_km, criterio","Identificador de la celda, género, tamaño de celda (km) y criterio de inclusión (06)"
+S,Riqueza observada del género en la celda (especies con registro)
+"n_reg_genero, esfuerzo_genero_log",Registros del género en la celda y su logaritmo (esfuerzo específico del género)
+log_S,Logaritmo de S; covariable en los modelos filogenéticos de Carollia y Sturnira (SES correlaciona con S)
+"x_centro_km, y_centro_km, lon_centro, lat_centro","Centro de la celda (LAEA, km) y en grados; para el suavizado espacial"
+"mpd_obs, pd_obs","MPD y PD de Faith observados, medios entre árboles (MPD desde S >= 2)"
+"ses_mpd, ses_pd","SES medio entre árboles (S >= 3): positivo = sobredispersión, negativo = agrupamiento"
+"ses_mpd_de_arboles, ses_pd_de_arboles",Desviación estándar del SES entre árboles (incertidumbre filogenética)
+"rango_mpd, rango_pd","Proporción de nulos menores que el observado, promediada entre árboles"
+"ses_mpd_sin_hermanas, ses_pd_sin_hermanas",SES con árboles completados sin hermanas (especies injertadas al azar en el género)
+"ses_mpd_solo_adn, ses_pd_solo_adn",SES solo con especies con ADN (sin imputadas ni injertadas); NA si S < 3 tras quitarlas
+filo_valida,TRUE si la celda tiene SES (S >= 3) y entra en los modelos filogenéticos
+"modelo_riqueza, modelo_filo","Modelo que corresponde: completo (10 predictores) o reducido (5: topo_sd_elev, clima_bio12_sd, hist_sd_temp, clima_bio01_media, ctrl_esfuerzo_log)"
+topo_sd_elev ... ctrl_area_tierra_km2,Predictores finales de 05 (sin estandarizar)

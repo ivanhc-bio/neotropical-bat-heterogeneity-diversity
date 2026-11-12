@@ -1,0 +1,11 @@
+tam_km,respuesta,prueba,gl,devianza,p,dAIC,nota,gl_wald,p_wald,n,controles_comunes,generos
+100,riqueza,global (todos los predictores de hipótesis),11.781753731204162,31.00647452281595,0.0017380646104818713,-5.899661444939284,,NA,NA,1255,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,riqueza,topo_sd_elev,3.3905574977577544,20.129437761272925,2.4914856180597986e-4,-13.353767332526786,,4,2.460906490870845e-7,1255,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,riqueza,clima_bio12_sd,5.822997444506655,21.248151175380997,0.0014420831889545619,-11.226571894073913,,4,0.0048166575346573854,1255,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,riqueza,clima_bio01_sd_res,14.970256851054728,9.508221725488795,0.8480865729791276,18.637699858652468,,4,0.16807011190251003,1255,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,riqueza,hist_sd_temp,4.751047078454803,13.933335121091943,0.013443807786149401,-5.345383143871004,,4,0.09346406648158874,1255,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,riqueza,hist_anom_prec,5.275802087465536,11.275058814291526,0.054356903694127774,-2.0500293519417028,,4,0.28498289906198965,1255,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,ses_mpd,global (todos los predictores de hipótesis),-14.826753433589943,-25.477258222069054,NA,37.093640504272116,prueba LR no válida; usar p_wald y dAIC,NA,NA,597,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,ses_mpd,topo_sd_elev,3.4123231767463267,2.0796911884426663,0.2697471443214479,1.8961950280624933,,4,0.27808697702017304,597,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,ses_mpd,clima_bio12_sd,2.872499172392395,1.1229727738960946,0.4708348630914974,3.2115561172545313,,4,0.06649121233324126,597,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"
+100,ses_mpd,hist_sd_temp,-1.6548998047283021,-7.927102525765122,NA,16.21694141140142,prueba LR no válida; usar p_wald y dAIC,4,0.678816181644474,597,TRUE,"Artibeus,Carollia,Platyrrhinus,Sturnira"

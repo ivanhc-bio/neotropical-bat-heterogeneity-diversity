@@ -1,0 +1,49 @@
+tam_km,faceta,inferencia,respuesta,tipo,predictor,prueba,gl,estimado,ic_inf,ic_sup,p,n_unidades,n_pruebas_familia,p_holm
+50,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.07377533710503942,2139,16,0.5902026968403153
+50,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,pendiente_comun,1,-0.01184126453850737,-0.0603804348885185,0.03669790581150375,0.6325452915046916,2139,16,1
+50,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,3.585956295134809e-4,2139,16,0.004133174062728711
+50,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,pendiente_comun,1,0.08740034910276785,0.03606573706916421,0.1387349611363715,8.468151478752687e-4,2139,16,0.008468151478752687
+50,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.4005575824924267,946,16,1
+50,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,pendiente_comun,1,-0.07773933462455493,-0.1524177797736314,-0.00306088947547844,0.04160759944261258,946,16,0.37446839498351325
+50,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,3.444311718940593e-4,946,16,0.004133174062728711
+50,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,pendiente_comun,1,-0.06808446401310969,-0.144991165473209,0.00882223744698962,0.08305364811248098,946,16,0.5902026968403153
+50,beta,bloque_s1,beta_tax,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,2.857640106220487e-7,202638,16,4.28646015933073e-6
+50,beta,bloque_s1,beta_tax,historica,d_hist_sd_temp,pendiente_comun,1,0.1424578635066784,-0.05144209154570178,0.3363578185590586,0.1471185716879315,202638,16,0.8827114301275889
+50,beta,bloque_s1,beta_tax,presente,d_topo_sd_elev,interaccion_genero,3,NA,NA,NA,1.589290102183289e-6,202638,16,2.2250061430566047e-5
+50,beta,bloque_s1,beta_tax,presente,d_topo_sd_elev,pendiente_comun,1,0.02212158528130327,-0.05865423363205811,0.10289740419466466,0.5862900471553789,202638,16,1
+50,beta,bloque_s1,beta_filo,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,1.7974636528094992e-7,202638,16,2.8759418444951988e-6
+50,beta,bloque_s1,beta_filo,historica,d_hist_sd_temp,pendiente_comun,1,0.07382666370565984,-0.04347876843261183,0.1911320958439315,0.2132852253681942,202638,16,1
+50,beta,bloque_s1,beta_filo,presente,d_topo_sd_elev,interaccion_genero,3,NA,NA,NA,4.5635505775178366e-06,202638,16,5.9326157507731874e-5
+50,beta,bloque_s1,beta_filo,presente,d_topo_sd_elev,pendiente_comun,1,0.01250575133240783,-0.03664221547416944,0.06165371813898511,0.6130517758473712,202638,16,1
+100,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.1026402518389196,1255,16,1
+100,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,pendiente_comun,1,-0.02326264521206295,-0.07985101734493083,0.03332572692080492,0.42040022373041047,1255,16,1
+100,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.00194207362380923,1255,16,0.02524695710951999
+100,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,pendiente_comun,1,0.149214179034649,0.08309034883748788,0.21533800923181012,9.738003385458793e-6,1255,16,1.5580805416734068e-4
+100,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.5519197497696079,597,16,1
+100,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,pendiente_comun,1,-0.02766527403241811,-0.11447915027778596,0.05914860221294972,0.5324891269783214,597,16,1
+100,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.18706067042075689,597,16,1
+100,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,pendiente_comun,1,-0.00694816600602292,-0.10468981379429725,0.09079348178225138,0.8892391848280292,597,16,1
+100,beta,bloque_s1,beta_tax,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.02208712532254274,132549,16,0.24961485549247725
+100,beta,bloque_s1,beta_tax,historica,d_hist_sd_temp,pendiente_comun,1,0.06793746329662483,-0.05891365336303066,0.1947885799562803,0.28911924659126953,132549,16,1
+100,beta,bloque_s1,beta_tax,presente,d_topo_sd_elev,interaccion_genero,3,NA,NA,NA,3.580772051622395e-4,132549,16,0.0053711580774335925
+100,beta,bloque_s1,beta_tax,presente,d_topo_sd_elev,pendiente_comun,1,0.04146745186240571,-0.03501426270902851,0.11794916643383992,0.28324860102829724,132549,16,1
+100,beta,bloque_s1,beta_filo,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.02080123795770644,132549,16,0.24961485549247725
+100,beta,bloque_s1,beta_filo,historica,d_hist_sd_temp,pendiente_comun,1,0.02897533456555043,-0.05252527665286848,0.11047594578396935,0.4806372226351796,132549,16,1
+100,beta,bloque_s1,beta_filo,presente,d_topo_sd_elev,interaccion_genero,3,NA,NA,NA,9.493901179447506e-4,132549,16,0.013291461651226508
+100,beta,bloque_s1,beta_filo,presente,d_topo_sd_elev,pendiente_comun,1,0.01727845868834052,-0.03123130603494271,0.06578822341162374,0.47982309939075984,132549,16,1
+200,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.09581595915742316,599,16,1
+200,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,pendiente_comun,1,-0.00126699126395641,-0.07250859118759735,0.06997460865968451,0.9721933834300897,599,16,1
+200,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.05230391598869045,599,16,0.7322548238416663
+200,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,pendiente_comun,1,0.14528556822194433,0.05297029157794949,0.23760084486593916,0.00203796303042589,599,16,0.03260740848681424
+200,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.119112483058492,315,16,1
+200,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,pendiente_comun,1,-0.01248414405068701,-0.11106770378072715,0.08609941567935314,0.8041544802498686,315,16,1
+200,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.8605564599013579,315,16,1
+200,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,pendiente_comun,1,-0.01990952211372518,-0.15159684435717585,0.11177780012972546,0.7671951228237333,315,16,1
+200,beta,bloque_s1,beta_tax,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.2886197798644838,30033,16,1
+200,beta,bloque_s1,beta_tax,historica,d_hist_sd_temp,pendiente_comun,1,0.09651986704972608,-0.0330126515809292,0.22605238568038133,0.14166254220903732,30033,16,1
+200,beta,bloque_s1,beta_tax,presente,d_topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.00392840307818641,30033,16,0.05892604617279615
+200,beta,bloque_s1,beta_tax,presente,d_topo_sd_elev,pendiente_comun,1,0.05536191654720802,-0.04879709522538026,0.1595209283197963,0.2926159274888404,30033,16,1
+200,beta,bloque_s1,beta_filo,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.2528961443127477,30033,16,1
+200,beta,bloque_s1,beta_filo,historica,d_hist_sd_temp,pendiente_comun,1,0.04094914214208747,-0.03631813799244893,0.11821642227662388,0.29401061767101727,30033,16,1
+200,beta,bloque_s1,beta_filo,presente,d_topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.06902961542246303,30033,16,0.8973850004920193
+200,beta,bloque_s1,beta_filo,presente,d_topo_sd_elev,pendiente_comun,1,0.03205648769217391,-0.03223816103418221,0.09635113641853003,0.32330474491414973,30033,16,1

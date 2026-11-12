@@ -1,0 +1,85 @@
+especie_mdd,genero_grupo,origen,hermana,con_adn
+Anoura aequatoris,Anoura,ausente (solo_adn),Anoura caudifer,FALSE
+Anoura cadenai,Anoura,ausente (solo_adn),NA,FALSE
+Anoura caudifer,Anoura,en el árbol de Upham (con ADN),NA,TRUE
+Anoura cultrata,Anoura,en el árbol de Upham (con ADN),NA,TRUE
+Anoura fistulata,Anoura,ausente (solo_adn),NA,FALSE
+Anoura geoffroyi,Anoura,en el árbol de Upham (con ADN),NA,TRUE
+Anoura javieri,Anoura,ausente (solo_adn),NA,FALSE
+Anoura latidens,Anoura,en el árbol de Upham (con ADN),NA,TRUE
+Anoura luismanueli,Anoura,ausente (solo_adn),NA,FALSE
+Anoura peruana,Anoura,ausente (solo_adn),Anoura geoffroyi,FALSE
+Artibeus aequatorialis,Artibeus,ausente (solo_adn),NA,FALSE
+Artibeus amplus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus concolor,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus fimbriatus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus fraterculus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus hirsutus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus inopinatus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus jamaicensis,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus lituratus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus obscurus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus planirostris,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Artibeus schwartzi,Artibeus,ausente (solo_adn),NA,FALSE
+Carollia benkeithi,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Carollia brevicauda,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Carollia castanea,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Carollia manu,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Carollia monohernandezi,Carollia,ausente (solo_adn),NA,FALSE
+Carollia perspicillata,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Carollia sowelli,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Carollia subrufa,Carollia,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura anderseni,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura azteca,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura bogotensis,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura cinerea,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura glauca,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura gnomus,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura phaeotis,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura rava,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura rosenbergi,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura tolteca,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Dermanura watsoni,Artibeus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus albericoi,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus angustirostris,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus aquilus,Platyrrhinus,ausente (solo_adn),NA,FALSE
+Platyrrhinus aurarius,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus brachycephalus,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus dorsalis,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus fusciventris,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus guianensis,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus helleri,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus incarum,Platyrrhinus,ausente (solo_adn),Platyrrhinus helleri,FALSE
+Platyrrhinus infuscus,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus ismaeli,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus lineatus,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus masu,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus matapalensis,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus nitelinea,Platyrrhinus,ausente (solo_adn),NA,FALSE
+Platyrrhinus recifinus,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Platyrrhinus umbratus,Platyrrhinus,ausente (solo_adn),NA,FALSE
+Platyrrhinus vittatus,Platyrrhinus,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira adrianae,Sturnira,ausente (solo_adn),NA,FALSE
+Sturnira angeli,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira aratathomasi,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira bakeri,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira bidens,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira bogotensis,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira burtonlimi,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira erythromos,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira giannae,Sturnira,ausente (solo_adn),Sturnira lilium,FALSE
+Sturnira hondurensis,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira koopmanhilli,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira lilium,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira ludovici,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira luisi,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira magna,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira mistratensis,Sturnira,ausente (solo_adn),NA,FALSE
+Sturnira mordax,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira nana,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira oporaphilum,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira parvidens,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira paulsoni,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira perla,Sturnira,en el árbol de Upham (con ADN),NA,TRUE
+Sturnira sorianoi,Sturnira,ausente (solo_adn),NA,FALSE
+Sturnira tildae,Sturnira,en el árbol de Upham (con ADN),NA,TRUE

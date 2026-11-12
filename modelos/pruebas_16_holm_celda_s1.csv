@@ -1,0 +1,49 @@
+tam_km,faceta,inferencia,respuesta,tipo,predictor,prueba,gl,estimado,ic_inf,ic_sup,p,n_unidades,n_pruebas_familia,p_holm
+50,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.07377533710503942,2139,16,0.4426520226302365
+50,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,pendiente_comun,1,-0.01184126453850737,-0.0603804348885185,0.03669790581150375,0.6325452915046916,2139,16,1
+50,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,3.585956295134809e-4,2139,16,0.003788742890834652
+50,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,pendiente_comun,1,0.08740034910276785,0.03606573706916421,0.1387349611363715,8.468151478752687e-4,2139,16,0.007621336330877418
+50,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.4005575824924267,946,16,1
+50,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,pendiente_comun,1,-0.07773933462455493,-0.1524177797736314,-0.00306088947547844,0.04160759944261258,946,16,0.29125319609828804
+50,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,3.444311718940593e-4,946,16,0.003788742890834652
+50,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,pendiente_comun,1,-0.06808446401310969,-0.144991165473209,0.00882223744698962,0.08305364811248098,946,16,0.4426520226302365
+50,beta,celda_s1,beta_tax,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,4.9443165426154635e-27,202638,16,7.910906468184742e-26
+50,beta,celda_s1,beta_tax,historica,d_hist_sd_temp,pendiente_comun,1,0.1416019217183131,0.065621947888842,0.21758189554778415,2.721486143231311e-4,202638,16,0.0032657833718775734
+50,beta,celda_s1,beta_tax,presente,d_topo_elev_media,interaccion_genero,3,NA,NA,NA,4.240194974153011e-9,202638,16,5.936272963814215e-8
+50,beta,celda_s1,beta_tax,presente,d_topo_elev_media,pendiente_comun,1,0.01997130858349028,-0.07414838273179863,0.1140909998987792,0.6770947903963251,202638,16,1
+50,beta,celda_s1,beta_filo,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,1.1847118117515878e-24,202638,16,1.7770677176273815e-23
+50,beta,celda_s1,beta_filo,historica,d_hist_sd_temp,pendiente_comun,1,0.07336281377177956,0.02117141103639831,0.1255542165071608,0.00593494470685378,202638,16,0.04747955765483024
+50,beta,celda_s1,beta_filo,presente,d_topo_elev_media,interaccion_genero,3,NA,NA,NA,1.1910184726799758e-6,202638,16,1.5483240144839687e-5
+50,beta,celda_s1,beta_filo,presente,d_topo_elev_media,pendiente_comun,1,0.02088385415123459,-0.03776732628106616,0.07953503458353535,0.4847282878603976,202638,16,1
+100,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.1026402518389196,1255,16,0.7184817628724373
+100,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,pendiente_comun,1,-0.02326264521206295,-0.07985101734493083,0.03332572692080492,0.42040022373041047,1255,16,1
+100,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.00194207362380923,1255,16,0.02524695710951999
+100,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,pendiente_comun,1,0.149214179034649,0.08309034883748788,0.21533800923181012,9.738003385458793e-6,1255,16,1.5580805416734068e-4
+100,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.5519197497696079,597,16,1
+100,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,pendiente_comun,1,-0.02766527403241811,-0.11447915027778596,0.05914860221294972,0.5324891269783214,597,16,1
+100,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.18706067042075689,597,16,1
+100,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,pendiente_comun,1,-0.00694816600602292,-0.10468981379429725,0.09079348178225138,0.8892391848280292,597,16,1
+100,beta,celda_s1,beta_tax,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,7.585012065171837e-4,132549,16,0.01073417007654899
+100,beta,celda_s1,beta_tax,historica,d_hist_sd_temp,pendiente_comun,1,0.06622873181380333,-9.660948582190798e-5,0.13255407311342857,0.050333114468809,132549,16,0.452998030219281
+100,beta,celda_s1,beta_tax,presente,d_topo_elev_media,interaccion_genero,3,NA,NA,NA,0.00483601740676768,132549,16,0.05487693208550831
+100,beta,celda_s1,beta_tax,presente,d_topo_elev_media,pendiente_comun,1,0.15495546838101815,0.04481215280922923,0.26509878395280706,0.00593683645267639,132549,16,0.0593683645267639
+100,beta,celda_s1,beta_filo,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,7.156113384365994e-4,132549,16,0.01073417007654899
+100,beta,celda_s1,beta_filo,historica,d_hist_sd_temp,pendiente_comun,1,0.02831586567458197,-0.01393376253068191,0.07056549387984586,0.18843225353778895,132549,16,1
+100,beta,celda_s1,beta_filo,presente,d_topo_elev_media,interaccion_genero,3,NA,NA,NA,0.07474170613483526,132549,16,0.5979336490786821
+100,beta,celda_s1,beta_filo,presente,d_topo_elev_media,pendiente_comun,1,0.10044410189104534,0.03119266743027547,0.16969553635181522,0.00457307767379236,132549,16,0.05487693208550831
+200,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.09581595915742316,599,16,0.7665276732593853
+200,alfa,GAM con suavizado espacial,riqueza,historica,hist_sd_temp,pendiente_comun,1,-0.00126699126395641,-0.07250859118759735,0.06997460865968451,0.9721933834300897,599,16,1
+200,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.05230391598869045,599,16,0.575343075875595
+200,alfa,GAM con suavizado espacial,riqueza,presente,topo_sd_elev,pendiente_comun,1,0.14528556822194433,0.05297029157794949,0.23760084486593916,0.00203796303042589,599,16,0.030535294789248154
+200,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.119112483058492,315,16,0.833787381409444
+200,alfa,GAM con suavizado espacial,ses_mpd,historica,hist_sd_temp,pendiente_comun,1,-0.01248414405068701,-0.11106770378072715,0.08609941567935314,0.8041544802498686,315,16,1
+200,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,interaccion_genero,3,NA,NA,NA,0.8605564599013579,315,16,1
+200,alfa,GAM con suavizado espacial,ses_mpd,presente,topo_sd_elev,pendiente_comun,1,-0.01990952211372518,-0.15159684435717585,0.11177780012972546,0.7671951228237333,315,16,1
+200,beta,celda_s1,beta_tax,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.0787555790021882,30033,16,0.7088002110196938
+200,beta,celda_s1,beta_tax,historica,d_hist_sd_temp,pendiente_comun,1,0.09373222683680482,0.0038555068302796,0.18360894684333004,0.04103889875344762,30033,16,0.5335056837948191
+200,beta,celda_s1,beta_tax,presente,d_topo_elev_media,interaccion_genero,3,NA,NA,NA,0.06534325244059655,30033,16,0.6534325244059656
+200,beta,celda_s1,beta_tax,presente,d_topo_elev_media,pendiente_comun,1,0.2888702273645706,0.10672734109951644,0.4710131136296247,0.00203568631928321,30033,16,0.030535294789248154
+200,beta,celda_s1,beta_filo,historica,d_hist_sd_temp,interaccion_genero,3,NA,NA,NA,0.04330369738211624,30033,16,0.5335056837948191
+200,beta,celda_s1,beta_filo,historica,d_hist_sd_temp,pendiente_comun,1,0.03929699021272241,-0.01371340560648006,0.0923073860319249,0.14532009973526608,30033,16,0.8719205984115965
+200,beta,celda_s1,beta_filo,presente,d_topo_elev_media,interaccion_genero,3,NA,NA,NA,0.22447062981442767,30033,16,1
+200,beta,celda_s1,beta_filo,presente,d_topo_elev_media,pendiente_comun,1,0.21295397740682545,0.09531829830143591,0.33058965651221495,4.51128800508638e-4,30033,16,0.007218060808138208

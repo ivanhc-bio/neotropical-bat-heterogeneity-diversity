@@ -1,0 +1,85 @@
+especie_mdd,genero_grupo,punta_arbol,estado,hermana,con_adn,nota
+Anoura aequatoris,Anoura,,injertar,Anoura caudifer,FALSE,hermana sugerida por su origen taxonómico (verificar)
+Anoura cadenai,Anoura,,injertar,,FALSE,"no es 'canishina' del árbol (esa es A. carishina, Mantilla-Meluk & Baker 2010); colocación al azar dentro del género"
+Anoura caudifer,Anoura,Anoura_caudifer,en_arbol,,TRUE,
+Anoura cultrata,Anoura,Anoura_cultrata,en_arbol,,TRUE,
+Anoura fistulata,Anoura,Anoura_fistulata,en_arbol,,FALSE,imputada por Upham (sin ADN)
+Anoura geoffroyi,Anoura,Anoura_geoffroyi,en_arbol,,TRUE,
+Anoura javieri,Anoura,,injertar,,FALSE,colocación al azar dentro del género
+Anoura latidens,Anoura,Anoura_latidens,en_arbol,,TRUE,
+Anoura luismanueli,Anoura,Anoura_luismanueli,en_arbol,,FALSE,imputada por Upham (sin ADN)
+Anoura peruana,Anoura,,injertar,Anoura geoffroyi,FALSE,hermana sugerida por su origen taxonómico (verificar)
+Artibeus aequatorialis,Artibeus,,injertar,,FALSE,colocación al azar dentro del género
+Artibeus amplus,Artibeus,Artibeus_amplus,en_arbol,,TRUE,
+Artibeus concolor,Artibeus,Artibeus_concolor,en_arbol,,TRUE,
+Artibeus fimbriatus,Artibeus,Artibeus_fimbriatus,en_arbol,,TRUE,
+Artibeus fraterculus,Artibeus,Artibeus_fraterculus,en_arbol,,TRUE,
+Artibeus hirsutus,Artibeus,Artibeus_hirsutus,en_arbol,,TRUE,
+Artibeus inopinatus,Artibeus,Artibeus_inopinatus,en_arbol,,TRUE,
+Artibeus jamaicensis,Artibeus,Artibeus_jamaicensis,en_arbol,,TRUE,
+Artibeus lituratus,Artibeus,Artibeus_lituratus,en_arbol,,TRUE,
+Artibeus obscurus,Artibeus,Artibeus_obscurus,en_arbol,,TRUE,
+Artibeus planirostris,Artibeus,Artibeus_planirostris,en_arbol,,TRUE,
+Artibeus schwartzi,Artibeus,,injertar,,FALSE,colocación al azar dentro del género
+Carollia benkeithi,Carollia,Carollia_benkeithi,en_arbol,,TRUE,
+Carollia brevicauda,Carollia,Carollia_brevicauda,en_arbol,,TRUE,
+Carollia castanea,Carollia,Carollia_castanea,en_arbol,,TRUE,
+Carollia manu,Carollia,Carollia_manu,en_arbol,,TRUE,
+Carollia monohernandezi,Carollia,,injertar,,FALSE,colocación al azar dentro del género
+Carollia perspicillata,Carollia,Carollia_perspicillata,en_arbol,,TRUE,
+Carollia sowelli,Carollia,Carollia_sowelli,en_arbol,,TRUE,
+Carollia subrufa,Carollia,Carollia_subrufa,en_arbol,,TRUE,
+Dermanura anderseni,Artibeus,Dermanura_anderseni,en_arbol,,TRUE,
+Dermanura azteca,Artibeus,Dermanura_aztecus,en_arbol,,TRUE,concordancia de género gramatical del epíteto (MDD v2.5: azteca)
+Dermanura bogotensis,Artibeus,Dermanura_bogotensis,en_arbol,,TRUE,
+Dermanura cinerea,Artibeus,Dermanura_cinereus,en_arbol,,TRUE,concordancia de género gramatical del epíteto (MDD v2.5: cinerea)
+Dermanura glauca,Artibeus,Dermanura_glaucus,en_arbol,,TRUE,concordancia de género gramatical del epíteto (MDD v2.5: glauca)
+Dermanura gnomus,Artibeus,Dermanura_gnomus,en_arbol,,TRUE,
+Dermanura phaeotis,Artibeus,Dermanura_phaeotis,en_arbol,,TRUE,
+Dermanura rava,Artibeus,Dermanura_rava,en_arbol,,TRUE,
+Dermanura rosenbergi,Artibeus,Dermanura_rosenbergii,en_arbol,,TRUE,concordancia de género gramatical del epíteto (MDD v2.5: rosenbergi)
+Dermanura tolteca,Artibeus,Dermanura_toltecus,en_arbol,,TRUE,concordancia de género gramatical del epíteto (MDD v2.5: tolteca)
+Dermanura watsoni,Artibeus,Dermanura_watsoni,en_arbol,,TRUE,
+Platyrrhinus albericoi,Platyrrhinus,Platyrrhinus_albericoi,en_arbol,,TRUE,
+Platyrrhinus angustirostris,Platyrrhinus,Platyrrhinus_angustirostris,en_arbol,,TRUE,
+Platyrrhinus aquilus,Platyrrhinus,,injertar,Platyrrhinus aurarius;Platyrrhinus nigellus,FALSE,hermana del clado P. aurarius + P. nigellus (Velazco & Gardner 2009; borrador 04b); P. nigellus no está en la tabla: se usa solo P. aurarius
+Platyrrhinus aurarius,Platyrrhinus,Platyrrhinus_aurarius,en_arbol,,TRUE,
+Platyrrhinus brachycephalus,Platyrrhinus,Platyrrhinus_brachycephalus,en_arbol,,TRUE,
+Platyrrhinus dorsalis,Platyrrhinus,Platyrrhinus_dorsalis,en_arbol,,TRUE,
+Platyrrhinus fusciventris,Platyrrhinus,Platyrrhinus_fusciventris,en_arbol,,TRUE,
+Platyrrhinus guianensis,Platyrrhinus,Platyrrhinus_guianensis,en_arbol,,TRUE,
+Platyrrhinus helleri,Platyrrhinus,Platyrrhinus_helleri,en_arbol,,TRUE,
+Platyrrhinus incarum,Platyrrhinus,,injertar,Platyrrhinus angustirostris;Platyrrhinus fusciventris,FALSE,hermana del clado P. angustirostris + P. fusciventris (Velazco et al. 2010; borrador 04b)
+Platyrrhinus infuscus,Platyrrhinus,Platyrrhinus_infuscus,en_arbol,,TRUE,
+Platyrrhinus ismaeli,Platyrrhinus,Platyrrhinus_ismaeli,en_arbol,,TRUE,
+Platyrrhinus lineatus,Platyrrhinus,Platyrrhinus_lineatus,en_arbol,,TRUE,
+Platyrrhinus masu,Platyrrhinus,Platyrrhinus_masu,en_arbol,,TRUE,
+Platyrrhinus matapalensis,Platyrrhinus,Platyrrhinus_matapalensis,en_arbol,,TRUE,
+Platyrrhinus nitelinea,Platyrrhinus,Platyrrhinus_nitelinea,en_arbol,,FALSE,imputada por Upham (sin ADN)
+Platyrrhinus recifinus,Platyrrhinus,Platyrrhinus_recifinus,en_arbol,,TRUE,
+Platyrrhinus umbratus,Platyrrhinus,Platyrrhinus_umbratus,en_arbol,,FALSE,imputada por Upham (sin ADN)
+Platyrrhinus vittatus,Platyrrhinus,Platyrrhinus_vittatus,en_arbol,,TRUE,
+Sturnira adrianae,Sturnira,,injertar,,FALSE,colocación al azar dentro del género
+Sturnira angeli,Sturnira,Sturnira_angeli,en_arbol,,TRUE,
+Sturnira aratathomasi,Sturnira,Sturnira_aratathomasi,en_arbol,,TRUE,
+Sturnira bakeri,Sturnira,Sturnira_bakeri,en_arbol,,TRUE,
+Sturnira bidens,Sturnira,Sturnira_bidens,en_arbol,,TRUE,
+Sturnira bogotensis,Sturnira,Sturnira_bogotensis,en_arbol,,TRUE,
+Sturnira burtonlimi,Sturnira,Sturnira_burtonlimi,en_arbol,,TRUE,
+Sturnira erythromos,Sturnira,Sturnira_erythromos,en_arbol,,TRUE,
+Sturnira giannae,Sturnira,,injertar,Sturnira luisi;Sturnira paulsoni,FALSE,hermana del clado S. luisi + S. paulsoni (Velazco & Patterson 2019; borrador 04b)
+Sturnira hondurensis,Sturnira,Sturnira_hondurensis,en_arbol,,TRUE,
+Sturnira koopmanhilli,Sturnira,Sturnira_koopmanhilli,en_arbol,,TRUE,
+Sturnira lilium,Sturnira,Sturnira_lilium,en_arbol,,TRUE,
+Sturnira ludovici,Sturnira,Sturnira_ludovici,en_arbol,,TRUE,
+Sturnira luisi,Sturnira,Sturnira_luisi,en_arbol,,TRUE,
+Sturnira magna,Sturnira,Sturnira_magna,en_arbol,,TRUE,
+Sturnira mistratensis,Sturnira,Sturnira_mistratensis,en_arbol,,FALSE,imputada por Upham (sin ADN)
+Sturnira mordax,Sturnira,Sturnira_mordax,en_arbol,,TRUE,
+Sturnira nana,Sturnira,Sturnira_nana,en_arbol,,TRUE,
+Sturnira oporaphilum,Sturnira,Sturnira_oporaphilum,en_arbol,,TRUE,
+Sturnira parvidens,Sturnira,Sturnira_parvidens,en_arbol,,TRUE,
+Sturnira paulsoni,Sturnira,Sturnira_paulsoni,en_arbol,,TRUE,
+Sturnira perla,Sturnira,Sturnira_perla,en_arbol,,TRUE,
+Sturnira sorianoi,Sturnira,Sturnira_sorianoi,en_arbol,,FALSE,imputada por Upham (sin ADN)
+Sturnira tildae,Sturnira,Sturnira_tildae,en_arbol,,TRUE,
