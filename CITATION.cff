@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Data and code for "Environmental heterogeneity and the diversity of
+  Neotropical frugivorous bats"
+message: >-
+  If you use this dataset or code, please cite both the archived release
+  and the article it accompanies.
+type: dataset
+authors:
+  - given-names: Iván
+    family-names: Hernández-Chávez
+    affiliation: >-
+      Posgrado en Ciencias Biológicas, Universidad Nacional Autónoma de
+      México; and Laboratorio de Mastozoología Evolutiva y Colecciones
+      Científicas, Facultad de Ciencias, UNAM
+    orcid: 'https://orcid.org/0000-0000-0000-0000'   # [POR COMPLETAR]
+  - given-names: Livia
+    family-names: León-Paniagua
+    email: llp@ciencias.unam.mx
+    affiliation: >-
+      Laboratorio de Mastozoología Evolutiva y Colecciones Científicas,
+      Facultad de Ciencias, Universidad Nacional Autónoma de México
+abstract: >-
+  Curation pipeline, derived data tables and analysis code for a study of
+  taxonomic and phylogenetic alpha and beta diversity of four frugivorous
+  phyllostomid genera against present topographic heterogeneity and
+  historical climatic instability, in equal-area cells of 50, 100 and 200 km
+  across the Neotropics.
+keywords:
+  - environmental heterogeneity
+  - beta diversity
+  - phylogenetic diversity
+  - Phyllostomidae
+  - Neotropics
+  - macroecology
+license: MIT            # [POR COMPLETAR] debe coincidir con LICENSE
+repository-code: 'https://github.com/ivanhc-bio/[NOMBRE-DEL-REPO]'
+version: 1.0.0
+date-released: '2026-11-12'
+
+# Financiamiento: SECIHTI, proyecto CF-2023-G-222.

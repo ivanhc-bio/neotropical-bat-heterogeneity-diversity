@@ -1,0 +1,15 @@
+# rásteres grandes: no van al repositorio, se descargan con el script 05b
+datos/ambiente/
+datos/predictores/capas_*_laea/
+*.tif
+*.nc
+
+# descargas crudas de GBIF (se reconstruyen desde los DOI del README)
+datos/gbif/*.zip
+datos/gbif/*_bruto.rds
+
+# basura de R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj

@@ -1,0 +1,45 @@
+{
+  "title": "Data and code for \"Environmental heterogeneity and the diversity of Neotropical frugivorous bats\"",
+  "upload_type": "dataset",
+  "description": "<p>Curation pipeline, derived data tables and analysis code for a study of taxonomic and phylogenetic alpha and beta diversity of four frugivorous phyllostomid genera (<em>Artibeus</em>, including <em>Dermanura</em>; <em>Carollia</em>; <em>Platyrrhinus</em>; <em>Sturnira</em>), with <em>Anoura</em> as a secondary contrast, against present topographic heterogeneity and historical climatic instability, in equal-area cells of 50, 100 and 200 km across the Neotropics.</p>",
+  "creators": [
+    {
+      "name": "Hernández-Chávez, Iván",
+      "affiliation": "Posgrado en Ciencias Biológicas, UNAM; Laboratorio de Mastozoología Evolutiva y Colecciones Científicas, Facultad de Ciencias, UNAM",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "León-Paniagua, Livia",
+      "affiliation": "Laboratorio de Mastozoología Evolutiva y Colecciones Científicas, Facultad de Ciencias, UNAM"
+    }
+  ],
+  "keywords": [
+    "environmental heterogeneity",
+    "beta diversity",
+    "phylogenetic diversity",
+    "Phyllostomidae",
+    "Neotropics",
+    "macroecology"
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.15468/dl.gfvm4t",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.15468/dl.2u7xpj",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.17033774",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Funded by the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), grant CF-2023-G-222."
+}
