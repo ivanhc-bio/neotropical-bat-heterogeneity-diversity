@@ -1,0 +1,19 @@
+Variant,H1: richness ~ topography [95% CI],H1 p,H2: genus interaction p,H3: SES-MPD ~ historical instability [95% CI],H3 p
+Main model,"0.145 [0.053, 0.238]",.002,.052,"-0.012 [-0.111, 0.086]",.804
+No spatial term,"0.262 [0.183, 0.342]",<.001,<.001,"0.017 [-0.081, 0.115]",.733
+Rigid spatial smooth (k = 7),"0.153 [0.064, 0.241]",<.001,.019,"-0.010 [-0.105, 0.084]",.828
+Random effect of 500 km blocks,"0.185 [0.093, 0.276]",<.001,<.001,"0.032 [-0.090, 0.154]",.605
+Genus-specific slopes for controls,"0.152 [0.060, 0.243]",.001,.809,"-0.023 [-0.123, 0.077]",.655
+Sampling effort of the genus,"0.071 [-0.024, 0.167]",.142,.152,"-0.026 [-0.125, 0.073]",.600
+Temperature anomaly instead of instability,"0.146 [0.055, 0.238]",.002,.027,"0.032 [-0.068, 0.132]",.528
+Present predictor only,"0.145 [0.054, 0.236]",.002,.016,,
+Historical predictor only,,,,"-0.016 [-0.112, 0.079]",.736
+SES-MPD without grafted sister species,,,,"-0.002 [-0.098, 0.094]",.965
+SES-MPD with DNA species only,,,,"-0.011 [-0.118, 0.097]",.845
+SES of Faith's PD,,,,"-0.010 [-0.111, 0.091]",.847
+Elevation range instead of SD of elevation,"0.133 [0.041, 0.224]",.005,.025,"-0.029 [-0.128, 0.069]",.559
+Records beyond the range polygon removed,"0.139 [0.041, 0.237]",.005,.004,,
+Without Artibeus,"0.156 [0.032, 0.281]",.014,.051,"0.009 [-0.132, 0.149]",.902
+Without Carollia,"0.166 [0.066, 0.266]",.001,.094,"-0.049 [-0.170, 0.071]",.424
+Without Platyrrhinus,"0.140 [0.040, 0.241]",.006,.124,"-0.017 [-0.122, 0.087]",.744
+Without Sturnira,"0.121 [0.015, 0.227]",.026,.056,"0.017 [-0.085, 0.120]",.741

@@ -1,0 +1,25 @@
+Response,Predictor,Cell size (km),Common slope [95% CI],p,Holm p,Genus interaction p,Genus interaction Holm p
+Richness,Present (topography),50,"0.087 [0.036, 0.139]",<.001,.008,<.001,.004
+Richness,Present (topography),100,"0.149 [0.083, 0.215]",<.001,<.001,.002,.025
+Richness,Present (topography),200,"0.145 [0.053, 0.238]",.002,.033,.052,.732
+Richness,Historical (thermal instability),50,"-0.012 [-0.060, 0.037]",.633,1.000,.074,.590
+Richness,Historical (thermal instability),100,"-0.023 [-0.080, 0.033]",.420,1.000,.103,1.000
+Richness,Historical (thermal instability),200,"-0.001 [-0.073, 0.070]",.972,1.000,.096,1.000
+SES-MPD,Present (topography),50,"-0.068 [-0.145, 0.009]",.083,.590,<.001,.004
+SES-MPD,Present (topography),100,"-0.007 [-0.105, 0.091]",.889,1.000,.187,1.000
+SES-MPD,Present (topography),200,"-0.020 [-0.152, 0.112]",.767,1.000,.861,1.000
+SES-MPD,Historical (thermal instability),50,"-0.078 [-0.152, -0.003]",.042,.374,.401,1.000
+SES-MPD,Historical (thermal instability),100,"-0.028 [-0.114, 0.059]",.532,1.000,.552,1.000
+SES-MPD,Historical (thermal instability),200,"-0.012 [-0.111, 0.086]",.804,1.000,.119,1.000
+Taxonomic turnover,Present (topography),50,"0.022 [-0.059, 0.103]",.586,1.000,<.001,<.001
+Taxonomic turnover,Present (topography),100,"0.041 [-0.035, 0.118]",.283,1.000,<.001,.005
+Taxonomic turnover,Present (topography),200,"0.055 [-0.049, 0.160]",.293,1.000,.004,.059
+Taxonomic turnover,Historical (thermal instability),50,"0.142 [-0.051, 0.336]",.147,.883,<.001,<.001
+Taxonomic turnover,Historical (thermal instability),100,"0.068 [-0.059, 0.195]",.289,1.000,.022,.250
+Taxonomic turnover,Historical (thermal instability),200,"0.097 [-0.033, 0.226]",.142,1.000,.289,1.000
+Phylogenetic turnover,Present (topography),50,"0.013 [-0.037, 0.062]",.613,1.000,<.001,<.001
+Phylogenetic turnover,Present (topography),100,"0.017 [-0.031, 0.066]",.480,1.000,<.001,.013
+Phylogenetic turnover,Present (topography),200,"0.032 [-0.032, 0.096]",.323,1.000,.069,.897
+Phylogenetic turnover,Historical (thermal instability),50,"0.074 [-0.043, 0.191]",.213,1.000,<.001,<.001
+Phylogenetic turnover,Historical (thermal instability),100,"0.029 [-0.053, 0.110]",.481,1.000,.021,.250
+Phylogenetic turnover,Historical (thermal instability),200,"0.041 [-0.036, 0.118]",.294,1.000,.253,1.000
